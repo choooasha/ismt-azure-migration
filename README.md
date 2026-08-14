@@ -1,4 +1,4 @@
-# ISMT College — Azure Cloud Migration & Deployment
+# ISMT College: Azure Cloud Migration & Deployment
 
 A Cloud Computing project built as part of my coursework (BSc. Computer System Engineering), designing and deploying a three-tier cloud architecture on Microsoft Azure to migrate ISMT College's on-premises infrastructure to the cloud.
 
@@ -26,7 +26,7 @@ Designed a three-tier Azure Virtual Network with public and private subnets, sep
 
 ## Deployment
 
-The website was deployed on an Azure VM using open-source tools — Ubuntu Linux, Git (to pull the site from GitHub), and Nginx (as a reverse proxy).
+The website was deployed on an Azure VM using open-source tools like Ubuntu Linux, Git (to pull the site from GitHub), and Nginx (as a reverse proxy).
 
 ## Testing & Validation
 
@@ -38,7 +38,7 @@ After deployment, I validated that the site was live, secured with HTTPS, and th
 
 ## Result
 
-Successfully migrated and deployed a working website on Azure with 16 provisioned resources — VNet, VM, VMSS, Application Gateway, NAT Gateway, NSGs, Route Tables, and supporting public IPs — accessible over HTTPS on a custom cloud domain.
+Successfully migrated and deployed a working website on Azure with 16 provisioned resources: VNet, VM, VMSS, Application Gateway, NAT Gateway, NSGs, Route Tables, and supporting public IPs — accessible over HTTPS on a custom cloud domain.
 
 ## Tools Used
 
