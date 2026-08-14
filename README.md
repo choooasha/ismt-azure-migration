@@ -38,7 +38,7 @@ After deployment, I validated that the site was live, secured with HTTPS, and th
 
 ## Result
 
-Successfully migrated and deployed a working website on Azure with 16 provisioned resources: VNet, VM, VMSS, Application Gateway, NAT Gateway, NSGs, Route Tables, and supporting public IPs — accessible over HTTPS on a custom cloud domain.
+Successfully migrated and deployed a working website on Azure with 16 provisioned resources: VNet, VM, VMSS, Application Gateway, NAT Gateway, NSGs, Route Tables, and supporting public IPs accessible over HTTPS on a custom cloud domain.
 
 ## Tools Used
 
